@@ -1,8 +1,6 @@
 ![Andreas Karageorgos GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasKarageorgos&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKarageorgos&layout=compact)](https://github.com/AndreasKarageorgos/github-readme-stats)
-
-- 📫 How to reach me:
-- LinkedIn [Andreas Karageorgos](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fpublic-profile%2Fsettings%3Ftrk%3Dd_flagship3_profile_self_view_public_profile&sa=D&sntz=1&usg=AOvVaw1CYnV7kGljAVvzbqQuAB98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKarageorgos&layout=compact&langs_count=8)](https://github.com/AndreasKarageorgos/github-readme-stats)
 
 
 <!--
