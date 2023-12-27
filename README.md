@@ -1,4 +1,5 @@
 ![Andreas Karageorgos GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasKarageorgos&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasKarageorgos&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKarageorgos&layout=compact)](https://github.com/AndreasKarageorgos/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasKarageorgos&layout=compact&langs_count=8)](https://github.com/AndreasKarageorgos/github-readme-stats)
 
