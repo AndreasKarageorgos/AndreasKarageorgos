@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats-tan-ten-87.vercel.app/api?username=AndreasKarageorgos&theme=dracula&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-tan-ten-87.vercel.app/api/top-langs/?username=AndreasKarageorgos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-ten-87.vercel.app/api/top-langs/?username=AndreasKarageorgos&theme=dracula)](https://github-readme-stats-tan-ten-87.vercel.app)
 
 
 <!--
